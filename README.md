@@ -7,8 +7,7 @@ Simple Calculator app created with React.js
 
 ## Screenshot
 
-<img src="https://raw.githubusercontent.com/dyCodes/calculator-reactjs/main/public/screenshot.png" alt="screenshot" width="500"/>
-![1](https://github.com/omkar7075/Calculator/assets/91741647/fcb6f556-f37c-446e-996e-9b2b220a31ec)
+![1](https://github.com/omkar7075/Calculator/assets/91741647/57f0b4d2-9f5b-4a73-8612-0e7035ae1ee6)
 
 ## Available Scripts
 
