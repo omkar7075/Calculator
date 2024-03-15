@@ -3,6 +3,7 @@
 Simple Calculator app created with React.js
 
 ## Live Demo
+https://calculator-lilac-tau.vercel.app/
 
 
 ## Screenshot
